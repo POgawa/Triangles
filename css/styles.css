@@ -1,0 +1,32 @@
+body {
+  background-image: url("../img/glitchMob2.jpg");
+  color: #ffd700;
+  font-family: Georgia;
+}
+
+div .form-group {
+  background-color: black;
+  padding: 1px 10px 10px 10px;
+  border: dashed 2px white;
+  border-radius: 20%;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+ul #isosceles {
+  color: red;
+}
+
+ul #scalene {
+  color: blue;
+}
+
+ul #equilateral {
+  color: yellow;
+}
+ .btn{
+  background-color: red;
+ }
